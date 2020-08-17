@@ -1,4 +1,5 @@
-# futdemint
+# simple-terraform-lambda-app
+Simple app for learning purposes
 
 ## Run Commands
 
